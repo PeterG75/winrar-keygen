@@ -11,6 +11,9 @@
 [rs]: http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%28r%2Cs%29
 [T]: http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20T
 
+
+**Binary File**:  [winrar-keygen.exe](https://ci.appveyor.com/api/buildjobs/e05qnsdlsxkrq665/artifacts/Win32%2FRelease%2Fwinrar-keygen.exe)
+
 # WinRAR-Keygen
 
   ## 1. What is WinRAR?
